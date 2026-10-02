@@ -8,7 +8,7 @@
 
 ## 🏛️ Executive Summary
 
-Strategic Technical Program Management Leader with 20+ years of high-impact delivery at Amazon and Microsoft, specializing in the end-to-end orchestration of complex global software and hardware ecosystems, including Alexa, Kindle, and Windows. PMP (PMI - Project Management Professional) and PMI-CPMAI (Certified Professional in Managing AI) certified with domain expertise spanning Cloud Solutions Architecture, Machine Learning, Generative AI and Agentic AI frameworks, and edge-to-cloud device lifecycles. Proven track record bridging technical innovation with business strategy—driving multi-million-dollar initiatives, cross-functional business and engineering alignment, and data-driven operational readiness across distributed systems.
+**Strategic Technical Program Management Leader** with 20+ years of high-impact delivery at Amazon and Microsoft, specializing in the end-to-end orchestration of complex global software and hardware ecosystems, including Alexa, Kindle, and Windows. **PMP** (PMI - Project Management Professional) and **PMI-CPMAI** (Certified Professional in Managing AI) certified with domain expertise spanning Cloud Solutions Architecture, Machine Learning, Generative AI and Agentic AI frameworks, and edge-to-cloud device lifecycles. Proven track record bridging technical innovation with business strategy—driving multi-million-dollar initiatives, cross-functional business and engineering alignment, and data-driven operational readiness across distributed systems.
 
 ---
 
