@@ -16,7 +16,16 @@
 
 Below are three production-benchmarked architectural reference implementations engineered on AWS and evaluated under the **PMI-CPMAI Phase I (Matching AI to Business Needs)** methodology:
 
-### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine)
+### 1. 🗣️️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
+**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
+* **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** (`gemini-3.1-flash-live-preview` & `gemini-3.5-live-translate-preview`) with 16kHz PCM capture, **Gemini 3.1 Flash Lite**, **Gemini TTS**, **Gemini 2.5 Flash Image**, and **Google Veo 3.1** video synthesis. Built using **React 19 + TypeScript**, **Express 5**, and `@google/genai` SDK.
+* **CPMAI & Cultural Impact Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to interact with Kaapse Afrikaans (Kaaps), Afrikaans (Formal Afrikaans), and isiXhosa heritage through ultra-low latency voice engagement.
+* **Key Features**: Full-Duplex Live Voice Partner (`LiveMode`), Learn Studio with Pronunciation Coach (`LearnMode`), Cape Flats Persona Trivia Game Show (`TriviaMode`), and Multimodal Heritage Media Generation (`ImageGenMode` / Veo Video).
+* **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#system-architecture) | Full-Stack Node.js/Express & WebSocket Server.
+
+---
+
+### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine)
 **Enterprise Knowledge Intelligence System with Granular Document Security**
 * **Architecture**: Hybrid search combining **Amazon OpenSearch Serverless** (Vector + BM25) and **Amazon Bedrock (Claude 3.5 Sonnet)**, backed by cross-encoder re-ranking and **AWS IAM Role-Based Access Control (RBAC)** metadata filtering.
 * **CPMAI & ROI Alignment**: Solved cross-departmental data leakage risks while modeling a **35% support handle-time reduction** (~**\$1.8M annual ROI** for a 500-agent tier-1 baseline).
@@ -25,7 +34,7 @@ Below are three production-benchmarked architectural reference implementations e
 
 ---
 
-### 2. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance)
+### 3. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance)
 **Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
 * **Architecture**: Dynamic agentic planning via **Amazon Bedrock AgentCore** and **Model Context Protocol (MCP)** on **AWS Fargate/Lambda**, guarded by deterministic **AWS Step Functions** state machines.
 * **CPMAI & Governance Alignment**: Separates probabilistic model reasoning from state-changing database writes. Enforces mandatory HITL approval for high-risk write operations (refunds, privilege changes), projecting **\$1.2M in annual cost avoidance**.
@@ -34,21 +43,12 @@ Below are three production-benchmarked architectural reference implementations e
 
 ---
 
-### 3. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails)
+### 4. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails)
 **Full-Stack Observability & Continuous In-Pipeline Regression Gating**
 * **Architecture**: Real-time distributed tracing with **AWS X-Ray** and **Amazon CloudWatch**, paired with automated pre-deployment evaluation harnesses using **AWS SageMaker Model Evaluation** integrated into **AWS CodePipeline**.
 * **CPMAI & Risk Alignment**: Protects enterprise SLAs and prevents silent production model degradation by automatically aborting deployments if citation accuracy or hallucination rates exceed threshold guardrails (**\$950K/yr risk avoidance**).
 * **Measured Benchmarks**: **96.1% citation accuracy** | **2.3% hallucination rate** | **1.42s P95 latency SLA** | **100% trace coverage**.
 * **Key Artifacts**: [`ADR-003: In-Pipeline Quality Gating vs Passive Logging`](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/docs/adrs/ADR-003-automated-llmops-quality-gating.md) | Automated CI/CD Gate Script.
-
----
-
-### 4. 🗣️️ [Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
-**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
-* **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** (`gemini-3.1-flash-live-preview` & `gemini-3.5-live-translate-preview`) with 16kHz PCM capture, **Gemini 3.1 Flash Lite**, **Gemini TTS**, **Gemini 2.5 Flash Image**, and **Google Veo 3.1** video synthesis. Built using **React 19 + TypeScript**, **Express 5**, and `@google/genai` SDK.
-* **CPMAI & Cultural Impact Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to preserve Kaapse Afrikaans (Kaaps), Hoofafrikaans (Formal Afrikaans), and isiXhosa heritage through ultra-low latency voice engagement.
-* **Key Features**: Full-Duplex Live Voice Partner (`LiveMode`), Learn Studio with Pronunciation Coach (`LearnMode`), Cape Flats Persona Trivia Game Show (`TriviaMode`), and Multimodal Heritage Media Generation (`ImageGenMode` / Veo Video).
-* **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#system-architecture) | Full-Stack Node.js/Express & WebSocket Server.
 
 ---
 
