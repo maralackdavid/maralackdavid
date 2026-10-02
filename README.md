@@ -8,7 +8,7 @@
 
 ## 🏛️ Executive Summary
 
-Enterprise **AI Architect** and **Strategic Technology Advisor** with 20+ years of high-impact technical leadership at **Amazon** and **Microsoft**. Certified in **PMP** and **PMI-CPMAI**, specializing in translating ambiguous enterprise challenges into target-state AI architectures, total cost of ownership (TCO) models, Architecture Decision Records (ADRs), and risk governance frameworks.
+Enterprise **Strategic Technology Program Manager** with 20+ years of high-impact technical leadership at **Amazon** and **Microsoft**. Certified in **PMP** and **PMI-CPMAI**, specializing in translating ambiguous enterprise challenges into target-state AI architectures, total cost of ownership (TCO) models, Architecture Decision Records (ADRs), and risk governance frameworks.
 
 I bridge technical engineering execution with C-suite business strategy across **permission-aware RAG pipelines**, **agentic tool governance via Model Context Protocol (MCP)**, **AWS serverless microservices**, and **LLMOps quality gating**.
 
