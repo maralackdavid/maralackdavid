@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Enterprise AI Architecture Portfolio
 
-Below are three production-benchmarked architectural reference implementations engineered on AWS and evaluated under the **PMI-CPMAI Phase I (Matching AI to Business Needs)** methodology:
+Below are four production-benchmarked architectural reference implementations engineered using Google and AWS and evaluated under the **PMI-CPMAI Phase I (Matching AI to Business Needs)** methodology:
 
 ### 1. 🗣️️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
