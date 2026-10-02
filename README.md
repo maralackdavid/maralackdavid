@@ -2,15 +2,13 @@
 ### **Artificial Intelligence (AI) Systems | Cloud Solutions Architecture | Software & Hardware Delivery**
 
 
-📍 **Seattle, WA** | ✉️️ [maralack@comcast.net](mailto:maralack@comcast.net) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/david-maralack-3898135/)
+📍 **Seattle, WA** | ✉️️ [maralackdavid@gmail.com](mailto:maralackdavid@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/david-maralack-3898135/)
 
 ---
 
 ## 🏛️ Executive Summary
 
-Enterprise **Strategic Technology Program Manager** with 20+ years of high-impact technical leadership at **Amazon** and **Microsoft**. Certified in **PMP** and **PMI-CPMAI**, specializing in translating ambiguous enterprise challenges into target-state AI architectures, total cost of ownership (TCO) models, Architecture Decision Records (ADRs), and risk governance frameworks.
-
-I bridge technical engineering execution with C-suite business strategy across **permission-aware RAG pipelines**, **agentic tool governance via Model Context Protocol (MCP)**, **AWS serverless microservices**, and **LLMOps quality gating**.
+Strategic Technical Program Management Leader with 20+ years of high-impact delivery at Amazon and Microsoft, specializing in the end-to-end orchestration of complex global software and hardware ecosystems, including Alexa, Kindle, and Windows. PMP (PMI - Project Management Professional) and PMI-CPMAI (Certified Professional in Managing AI) certified with domain expertise spanning Cloud Solutions Architecture, Machine Learning, Generative AI and Agentic AI frameworks, and edge-to-cloud device lifecycles. Proven track record bridging technical innovation with business strategy—driving multi-million-dollar initiatives, cross-functional business and engineering alignment, and data-driven operational readiness across distributed systems.
 
 ---
 
