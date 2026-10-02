@@ -22,7 +22,8 @@ Below are four production-benchmarked architectural reference implementations en
 * **Key Features**: Full-Duplex Live Voice Partner (`LiveMode`), Learn Studio with Pronunciation Coach (`LearnMode`), Cape Flats Persona Trivia Game Show (`TriviaMode`), and Multimodal Heritage Media Generation (`ImageGenMode` / Veo Video).
 * **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** (`gemini-3.1-flash-live-preview` & `gemini-3.5-live-translate-preview`) with 16kHz PCM capture, **Gemini 3.1 Flash Lite**, **Gemini TTS**, **Gemini 2.5 Flash Image**, and **Google Veo 3.1** video synthesis. Built using **React 19 + TypeScript**, **Express 5**, and `@google/genai` SDK.
 * **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#system-architecture) | Full-Stack Node.js/Express & WebSocket Server.
-* **Application**: [Maralack Cape Flats AI Companion](https:/maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app)
+* **Application**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app)
+
 ---
 
 ### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine)
