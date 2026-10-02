@@ -43,6 +43,15 @@ Below are three production-benchmarked architectural reference implementations e
 
 ---
 
+### 4. 🗣️️ [Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion)
+**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
+* **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** (`gemini-3.1-flash-live-preview` & `gemini-3.5-live-translate-preview`) with 16kHz PCM capture, **Gemini 3.1 Flash Lite**, **Gemini TTS**, **Gemini 2.5 Flash Image**, and **Google Veo 3.1** video synthesis. Built using **React 19 + TypeScript**, **Express 5**, and `@google/genai` SDK.
+* **CPMAI & Cultural Impact Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to preserve Kaapse Afrikaans (Kaaps), Hoofafrikaans (Formal Afrikaans), and isiXhosa heritage through ultra-low latency voice engagement.
+* **Key Features**: Full-Duplex Live Voice Partner (`LiveMode`), Learn Studio with Pronunciation Coach (`LearnMode`), Cape Flats Persona Trivia Game Show (`TriviaMode`), and Multimodal Heritage Media Generation (`ImageGenMode` / Veo Video).
+* **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#system-architecture) | Full-Stack Node.js/Express & WebSocket Server.
+
+---
+
 ## 🛠️ Core Architectural Competencies
 
 | Domain | Specialization & Tooling |
