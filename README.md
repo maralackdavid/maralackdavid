@@ -1,5 +1,6 @@
 # Hi, I'm David Maralack, PMP, PMI-CPMAI 👋
-### **AI Architect | Principal AI Solutions Architect | Enterprise Cloud & GenAI Strategy**
+### **Artificial Intelligence (AI) Systems | Cloud Solutions Architecture | Software & Hardware Delivery**
+
 
 📍 **Seattle, WA** | ✉️️ [maralack@comcast.net](mailto:maralack@comcast.net) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/david-maralack-3898135/)
 
