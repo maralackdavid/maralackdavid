@@ -44,7 +44,7 @@ Below are four production-benchmarked architectural reference implementations en
 
 ---
 
-### 4. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails)
+### 4. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
 **Full-Stack Observability & Continuous In-Pipeline Regression Gating**
 * **CPMAI & Risk Alignment**: Protects enterprise SLAs and prevents silent production model degradation by automatically aborting deployments if citation accuracy or hallucination rates exceed threshold guardrails (**\$950K/yr risk avoidance**).
 * **Measured Benchmarks**: **96.1% citation accuracy** | **2.3% hallucination rate** | **1.42s P95 latency SLA** | **100% trace coverage**.
