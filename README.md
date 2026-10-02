@@ -1,4 +1,4 @@
-# Hi, I'm David Maralack, PMP, PMI-CPMAI 👋
+# Hi, I'm David Maralack, PMP, PMI-CPMAI
 ### **Artificial Intelligence (AI) Systems | Cloud Solutions Architecture | Software & Hardware Delivery**
 
 
