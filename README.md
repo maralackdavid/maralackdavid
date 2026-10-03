@@ -26,7 +26,7 @@ Below are four production-benchmarked architectural reference implementations en
 
 ---
 
-### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine)
+### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
 **Enterprise Knowledge Intelligence System with Granular Document Security**
 * **CPMAI & ROI Alignment**: Solved cross-departmental data leakage risks while modeling a **35% support handle-time reduction** (~**\$1.8M annual ROI** for a 500-agent tier-1 baseline).
 * **Measured Benchmarks**: **92.4% retrieval precision** | **1.38s P95 response latency** | **100% RBAC security compliance**.
@@ -35,7 +35,7 @@ Below are four production-benchmarked architectural reference implementations en
 
 ---
 
-### 3. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance)
+### 3. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
 **Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
 * **CPMAI & Governance Alignment**: Separates probabilistic model reasoning from state-changing database writes. Enforces mandatory HITL approval for high-risk write operations (refunds, privilege changes), projecting **\$1.2M in annual cost avoidance**.
 * **Measured Benchmarks**: **95.2% tool execution accuracy** | **100% prompt-injection attack blocking** | **100% HITL policy compliance**.
