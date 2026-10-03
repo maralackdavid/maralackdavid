@@ -31,7 +31,7 @@ Below are four production-benchmarked architectural reference implementations en
 * **CPMAI & ROI Alignment**: Solved cross-departmental data leakage risks while modeling a **35% support handle-time reduction** (~**\$1.8M annual ROI** for a 500-agent tier-1 baseline).
 * **Measured Benchmarks**: **92.4% retrieval precision** | **1.38s P95 response latency** | **100% RBAC security compliance**.
 * **Architecture**: Hybrid search combining **Amazon OpenSearch Serverless** (Vector + BM25) and **Amazon Bedrock (Claude 3.5 Sonnet)**, backed by cross-encoder re-ranking and **AWS IAM Role-Based Access Control (RBAC)** metadata filtering.
-* **Key Artifacts**: [`ADR-001: Managed vs Custom RAG`](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/docs/adrs/ADR-001-managed-vs-custom-rag.md) | System Architecture Blueprint | Python Retriever Handler.
+* **Key Artifacts**: ADR-001: Managed vs Custom RAG | System Architecture Blueprint | Python Retriever Handler.
 
 ---
 
@@ -40,7 +40,7 @@ Below are four production-benchmarked architectural reference implementations en
 * **CPMAI & Governance Alignment**: Separates probabilistic model reasoning from state-changing database writes. Enforces mandatory HITL approval for high-risk write operations (refunds, privilege changes), projecting **\$1.2M in annual cost avoidance**.
 * **Measured Benchmarks**: **95.2% tool execution accuracy** | **100% prompt-injection attack blocking** | **100% HITL policy compliance**.
 * **Architecture**: Dynamic agentic planning via **Amazon Bedrock AgentCore** and **Model Context Protocol (MCP)** on **AWS Fargate/Lambda**, guarded by deterministic **AWS Step Functions** state machines.
-* **Key Artifacts**: [`ADR-002: Agentic Orchestration vs Deterministic Governance`](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/docs/adrs/ADR-002-agentic-orchestration-vs-deterministic-state-machines.md) | Defensive Security Test Suite.
+* **Key Artifacts**: ADR-002: Agentic Orchestration vs Deterministic Governance | Defensive Security Test Suite.
 
 ---
 
@@ -49,7 +49,7 @@ Below are four production-benchmarked architectural reference implementations en
 * **CPMAI & Risk Alignment**: Protects enterprise SLAs and prevents silent production model degradation by automatically aborting deployments if citation accuracy or hallucination rates exceed threshold guardrails (**\$950K/yr risk avoidance**).
 * **Measured Benchmarks**: **96.1% citation accuracy** | **2.3% hallucination rate** | **1.42s P95 latency SLA** | **100% trace coverage**.
 * **Architecture**: Real-time distributed tracing with **AWS X-Ray** and **Amazon CloudWatch**, paired with automated pre-deployment evaluation harnesses using **AWS SageMaker Model Evaluation** integrated into **AWS CodePipeline**.
-* **Key Artifacts**: [`ADR-003: In-Pipeline Quality Gating vs Passive Logging`](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/docs/adrs/ADR-003-automated-llmops-quality-gating.md) | Automated CI/CD Gate Script.
+* **Key Artifacts**: ADR-003: In-Pipeline Quality Gating vs Passive Logging | Automated CI/CD Gate Script.
 
 ---
 
