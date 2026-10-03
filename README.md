@@ -14,14 +14,14 @@
 
 ## 🚀 Featured Enterprise AI Architecture Portfolio
 
-Below are four production-benchmarked architectural reference implementations engineered using Google and AWS and evaluated under the **PMI-CPMAI Phase I (Matching AI to Business Needs)** methodology:
+Below are four production-benchmarked architectural reference implementations engineered using Google, AWS and evaluated under the **PMI-CPMAI Phase I (Matching AI to Business Needs)** methodology:
 
 ### 1. 🗣️️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
 * **CPMAI & Cultural Impact Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to interact with Kaapse Afrikaans (Cape Flats), Afrikaans (Formal Afrikaans), and isiXhosa heritage through ultra-low latency voice engagement.
 * **Key Features**: Full-Duplex Live Voice Partner (`LiveMode`), Learn Studio with Pronunciation Coach (`LearnMode`), Cape Flats Persona Trivia Game Show (`TriviaMode`), and Multimodal Heritage Media Generation (`ImageGenMode` / Veo Video).
 * **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** (`gemini-3.1-flash-live-preview` & `gemini-3.5-live-translate-preview`) with 16kHz PCM capture, **Gemini 3.1 Flash Lite**, **Gemini TTS**, **Gemini 2.5 Flash Image**, and **Google Veo 3.1** video synthesis. Built using **React 19 + TypeScript**, **Express 5**, and `@google/genai` SDK.
-* **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#2-target-system-architecture--modes) | Full-Stack Node.js/Express & WebSocket Server.
+* **Key Artifacts**: [System Architecture & Sequence Flow Diagrams](https://github.com/maralackdavid/Afrikaans-AI-companion#2-target-system-architecture) | Full-Stack Node.js/Express & WebSocket Server.
 * **Application**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app)
 
 ---
