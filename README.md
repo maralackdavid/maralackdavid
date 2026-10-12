@@ -91,7 +91,7 @@ Below are four production-benchmarked architectural reference implementations en
 
 | Competency Pillar | Specialization & Tooling |
 | :--- | :--- |
-| **Enterprise AI Strategy** | CPMAI Phase I Business Feasibility, AWS Module 4 & 5 Methodologies, Build vs. Buy vs. Partner TCO Analysis, Active Portfolio Governance (Scale/Pause/Terminate), Shadow AI Governance |
+| **Enterprise AI Strategy** | CPMAI Phase I Business Feasibility, AWS Methodologies, Build vs. Buy vs. Partner TCO Analysis, Active Portfolio Governance (Scale/Pause/Terminate), Shadow AI Governance |
 | **Financial & Value Governance** | 4-Component Financial ROI Modeling, Pre-Launch Baseline Capture, Multi-Stakeholder KPI Framing (CFO/COO/CIO/CHRO), FinOps Cost Factor Controls, Payback Period Calculation |
 | **AI Architecture & RAG** | Permission-Aware RAG, Amazon Bedrock, OpenSearch Serverless Hybrid Search, Cohere Cross-Encoder Re-Ranking, Prompt Engineering & Guardrails, Vector Indexing |
 | **Agentic Systems & Governance** | Amazon Bedrock AgentCore, Model Context Protocol (MCP), AWS Step Functions HITL State Machines, Deterministic Guardrails, Tool Execution Oversight |
