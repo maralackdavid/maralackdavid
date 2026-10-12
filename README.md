@@ -36,12 +36,12 @@ graph TD
 * **DIKUW Pyramid & 7 Patterns of AI Alignment**: Mapping business problems to the AI "Sweet Spot" at the **Knowledge** and **Understanding** layers of the DIKUW pyramid (Data, Information, Knowledge, Understanding, Wisdom) and classifying initiatives against the Seven Patterns of AI (Conversational, Recognition, Predictive Analytics, Hyper-Personalization, Patterns & Anomalies, Autonomous Systems, Goal-Driven Systems).
 * **Trustworthy AI Governance by Design**: Embedding fairness, explainability (XAI), privacy, safety, transparency, and human-in-the-loop (HITL) safeguards into Phase I planning rather than treating governance as a post-deployment afterthought.
 
-#### 2. AWS Strategy: Developing AI Strategies That Align with Business Objectives
+#### 2. Developing AI Strategies That Align with Business Objectives
 * **4-Filter Use Case Selection Framework**: Ranking and prioritizing candidate initiatives against four non-negotiable criteria: **Business Impact** (metric movement), **Data Availability** (clean, accessible training data), **Organizational Readiness** (operational ownership and champion sponsorship), and **Strategic Alignment** (support for the 3-year corporate roadmap).
 * **3-Year Build vs. Buy vs. Partner TCO Framework**: Evaluating vendor proposals past initial software license fees to model complete 3-Year Total Cost of Ownership (TCO). Incorporates upfront development, cloud infrastructure opex, and hidden operational costs (e.g., false-positive throughput losses on production lines) while enforcing 100% enterprise IP ownership pre-conditions.
 * **Active Portfolio Governance & Transition Strategy**: Managing AI portfolios through evidence-based decisions to **Scale** (proven return, strong data flywheel), **Pause** (with strict 30/60-day condition deadlines), or **Terminate** (unpromising projects stopped, budget redeployed). Transition approaches are tailored to continuity risk via **Parallel Running**, **Phased Rollout by Line/Site**, and pre-defined **Rollback Triggers**.
 
-#### 3. AWS Strategy Module 5: Measuring & Demonstrating AI Business Value
+#### 3. Measuring & Demonstrating AI Business Value
 * **Pre-Launch Baseline Capture**: Establishing rigorous pre-launch operational baselines prior to deployment to ensure ROI claims represent verifiable evidence rather than speculation ("A KPI without a baseline is an opinion; a KPI with a baseline is evidence").
 * **Multi-Stakeholder KPI Alignment Matrix**: Tailoring business value framing across executive perspectives:
   * **CFO**: Net Annual Savings, EBITDA impact, 2-Year ROI %, and Payback Period (~10-12 months).
