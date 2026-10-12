@@ -24,7 +24,7 @@ graph TD
         BN --> Alignment[AWS 4-Filter Selection Matrix]
         
         Alignment --> TCO[3-Year TCO Analysis\nBuild vs Buy vs Partner]
-        TCO --> ROI[AWS 4-Component ROI Model]
+        TCO --> ROI[4-Component ROI Model]
         ROI --> KPI[Multi-Stakeholder KPI Matrix\nCFO · COO · CIO · CHRO]
         KPI --> Gate1{GATE 1: Executive Go/No-Go}
     end
