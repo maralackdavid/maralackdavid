@@ -80,7 +80,7 @@ Below are four production-benchmarked architectural reference implementations en
 * **Architecture & Observability**: Real-time distributed tracing with **AWS X-Ray** and **Amazon CloudWatch**, paired with automated pre-deployment evaluation harnesses using **AWS SageMaker Model Evaluation** integrated into AWS CodePipeline.
 * **Measured Production SLAs**: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency SLA** | **100% Trace Coverage**.
 
-#### 4. 🗣️ GenAI ChatBot - Afrikaans AI Companion
+#### 4. 🗣️  [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
 * **CPMAI & Pattern Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to interact with Kaapse Afrikaans (Cape Flats) and formal Afrikaans heritage through ultra-low latency voice engagement.
 * **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** with 16kHz PCM capture, Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis, hosted on Cloud Run.
