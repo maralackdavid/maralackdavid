@@ -62,19 +62,19 @@ graph TD
 
 Below are four production-benchmarked architectural reference implementations engineered on AWS and evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks:
 
-#### 1. 🛡️ Permission-Aware AWS RAG Engine (Enterprise Knowledge System)
+#### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
 **Zero-Trust Retrieval-Augmented Generation Architecture with IAM RBAC Metadata Filtering**
 * **Strategic & Business Alignment**: Evaluated under CPMAI Phase I for Tier-1 support operations. Achieves a 35% reduction in Average Handle Time (AHT) yielding **$1.8M in annual operational savings** with a **<12-month payback period**.
 * **Architecture & Governance**: Enforces document-level AWS IAM Role-Based Access Control (RBAC) metadata filtering inside OpenSearch Serverless hybrid vector search, preventing cross-departmental data leaks. Powered by Cohere Cross-Encoder re-ranking, Amazon Bedrock (Claude 3.5 Sonnet), and automated CI/CD quality regression gates in AWS CodePipeline.
 * **Measured Production SLAs**: **92.4% Retrieval Precision** | **1.38s P95 Response Latency** | **100% RBAC Data Isolation** | **96.1% Citation Coverage**.
 
-#### 2. 🤖 Agentic Workflow Automation & Tool Governance
+#### 2. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
 **Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
 * **CPMAI & Governance Alignment**: Separates probabilistic LLM reasoning from state-changing database write operations. Enforces mandatory HITL approval for high-risk write actions (refunds, privilege modifications), delivering **$1.2M in annual risk avoidance**.
 * **Architecture & Control**: Dynamic agentic planning via **Amazon Bedrock AgentCore** and **Model Context Protocol (MCP)** on AWS Fargate/Lambda, guarded by deterministic **AWS Step Functions** state machines.
 * **Measured Production SLAs**: **95.2% Tool Execution Accuracy** | **100% Prompt-Injection Attack Blocking** | **100% HITL Policy Compliance**.
 
-#### 3. 📊 Automated LLMOps Telemetry & Quality Guardrails
+#### 3. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
 **Full-Stack Observability & Continuous In-Pipeline Quality Regression Gating**
 * **CPMAI & Risk Alignment**: Protects enterprise SLAs and prevents silent model degradation by automatically aborting deployments if citation accuracy or hallucination rates exceed threshold guardrails (**$950K/yr risk avoidance**).
 * **Architecture & Observability**: Real-time distributed tracing with **AWS X-Ray** and **Amazon CloudWatch**, paired with automated pre-deployment evaluation harnesses using **AWS SageMaker Model Evaluation** integrated into AWS CodePipeline.
