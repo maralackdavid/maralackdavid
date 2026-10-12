@@ -21,10 +21,10 @@ graph TD
     subgraph CPMAI Phase I & Executive Governance
         BN[CPMAI Phase I: Business Understanding] --> DetFilter[Deterministic vs Probabilistic Filter\nThe 95% Rule]
         BN --> Feas[CPMAI 3x3 Feasibility Matrix]
-        BN --> Alignment[AWS Module 4: 4-Filter Selection Matrix]
+        BN --> Alignment[AWS 4-Filter Selection Matrix]
         
         Alignment --> TCO[3-Year TCO Analysis\nBuild vs Buy vs Partner]
-        TCO --> ROI[AWS Module 5: 4-Component ROI Model]
+        TCO --> ROI[AWS 4-Component ROI Model]
         ROI --> KPI[Multi-Stakeholder KPI Matrix\nCFO · COO · CIO · CHRO]
         KPI --> Gate1{GATE 1: Executive Go/No-Go}
     end
