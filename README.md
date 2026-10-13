@@ -18,7 +18,7 @@ and Microsoft (Windows) — spanning device NPI, large-scale telemetry, and trad
 Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** framework and the **AWS AI Business Strategist** methodology:
 
 
-**Some of the core frameworks I apply:**
+**Some of the core frameworks and methodologies I apply:**
 
 - **Probabilistic vs. Deterministic (The 95% Rule):** if business rules cover 95% of cases, automate with rules — reserve AI for high-variability pattern recognition (visual defect detection, unstructured language).
 - **CPMAI 3x3 Feasibility:** Go/No-Go across Business, Data, and Execution feasibility (9 traffic-light indicators).
