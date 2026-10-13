@@ -6,9 +6,7 @@
 
 ### 🏛️ Executive Summary & Value Proposition
 
-**Senior Technical Program Management Leader** with 20+ years of high-impact delivery across Amazon and Microsoft, specializing in the end-to-end orchestration of complex global software and hardware ecosystems (Alexa, Kindle, Windows). 
-
-As a certified **PMP** (Project Management Professional) and **PMI-CPMAI** (Certified Professional in Managing AI), I bridge deep technical cloud engineering on **Amazon Web Services (AWS)** with executive business strategy and board-level financial governance. My approach translates probabilistic AI capabilities into defensible enterprise value, applying rigorous **3-Year Total Cost of Ownership (TCO)** models, **4-Component ROI frameworks**, and **CPMAI Phase Gate governance** to ensure AI initiatives scale safely, deliver provable returns, and align strictly with core business objectives.
+**Senior Technical Program Management Leader** with 20+ years of high-impact delivery at Amazon (Alexa, Kindle) and Microsoft (Windows), spanning global software and hardware ecosystems. **PMP** and **PMI-CPMAI** certified; specialize in enterprise AI strategy and cloud architecture — translating AI capabilities into measurable business value through TCO modeling, ROI frameworks, and CPMAI phase-gate governance.
 
 ---
 
