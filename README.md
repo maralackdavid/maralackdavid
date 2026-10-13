@@ -2,7 +2,7 @@
 
 ##### **Senior Technical Program Manager | Enterprise AI Strategy | Cloud Solutions Architecture | Software & Hardware Delivery**
 
-📍 Seattle, WA | <maralackdavid@gmail.com> | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
+###### 📍 Seattle, WA | <maralackdavid@gmail.com> | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
 
 *Currently: Independent AI & Cloud Architecture TPM (2024–present) — building production-grade AI prototypes; open to senior Technical Program Manager roles.*
 
