@@ -17,20 +17,8 @@ and Microsoft (Windows) — spanning device NPI, large-scale telemetry, and trad
 
 Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** framework and the **AWS AI Business Strategist** methodology:
 
-```mermaid
-graph TD
-    subgraph CPMAI Phase I & Executive Governance
-        BN[CPMAI Phase I: Business Understanding] --> DetFilter[Deterministic vs Probabilistic Filter\nThe 95% Rule]
-        BN --> Feas[CPMAI 3x3 Feasibility Matrix]
-        BN --> Alignment[AWS 4-Filter Selection Matrix]
-        Alignment --> TCO[3-Year TCO Analysis\nBuild vs Buy vs Partner]
-        TCO --> ROI[4-Component ROI Model]
-        ROI --> KPI[Multi-Stakeholder KPI Matrix\nCFO · COO · CIO · CHRO]
-        KPI --> Gate1{GATE 1: Executive Go/No-Go}
-    end
-```
 
-**The core filters I apply:**
+**Some of the core frameworks I apply:**
 
 - **Probabilistic vs. Deterministic (The 95% Rule):** if business rules cover 95% of cases, automate with rules — reserve AI for high-variability pattern recognition (visual defect detection, unstructured language).
 - **CPMAI 3x3 Feasibility:** Go/No-Go across Business, Data, and Execution feasibility (9 traffic-light indicators).
