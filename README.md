@@ -11,6 +11,8 @@
 **Senior Technical Program Manager** Senior Technical Program Manager with 20+ years delivering global software and hardware ecosystems at Amazon (Alexa, Kindle)
 and Microsoft (Windows) — spanning device NPI, large-scale telemetry, and traditional software solutions — complemented by a 3-year focus in enterprise AI strategy, cloud architecture, and CPMAI governance. **PMP** and **PMI-CPMAI** certified — translating complex programs into measurable business value through TCO modeling, ROI frameworks, and phase-gate governance.
 
+> **Prototype disclaimer:** Independent proof-of-concept — no client engagements. All business-value figures are *modeled* at enterprise scale, not measured at a client. Benchmarks below are simulated prototype evaluation results.
+
 ---
 
 ### 🎯 How I Evaluate AI Investments: CPMAI & AWS Strategy Frameworks
