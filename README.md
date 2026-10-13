@@ -1,18 +1,22 @@
-# David Maralack, PMP, PMI-CPMAI
+## David Maralack, PMP, PMI-CPMAI
+
 ##### **Senior Technical Program Manager | Enterprise AI Strategy | Cloud Solutions Architecture | Software & Hardware Delivery**
-📍 Seattle, WA | maralackdavid@gmail.com | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
+
+📍 Seattle, WA | <maralackdavid@gmail.com> | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
+
+*Currently: AI & Cloud Architecture TPM consultant (2024–present) — open to senior Technical Program Manager roles.*
 
 ---
 
-### 🏛️ Executive Summary & Value Proposition
+### 🏛️ Executive Summary
 
-**Senior Technical Program Management Leader** with 20+ years of high-impact delivery at Amazon (Alexa, Kindle) and Microsoft (Windows), spanning global software and hardware ecosystems. **PMP** and **PMI-CPMAI** certified; specialize in enterprise AI strategy and cloud architecture — translating AI capabilities into measurable business value through TCO modeling, ROI frameworks, and CPMAI phase-gate governance.
+**Senior Technical Program Manager** with 20+ years of high-impact delivery at Amazon (Alexa, Kindle) and Microsoft (Windows), spanning global software and hardware ecosystems. PMP and PMI-CPMAI certified; specialize in enterprise AI strategy and cloud architecture — translating AI capabilities into measurable business value through TCO modeling, ROI frameworks, and CPMAI phase-gate governance.
 
 ---
 
-### 🎯 CPMAI Business Needs & AWS Strategy Frameworks
+### 🎯 How I Evaluate AI Investments: CPMAI & AWS Strategy Frameworks
 
-My program delivery is anchored on the **Cognitive Project Management for AI (CPMAI)** framework and the **AWS AI Business Strategist** methodology, ensuring every AI investment undergoes rigorous business justification before code is written:
+Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** framework and the **AWS AI Business Strategist** methodology:
 
 ```mermaid
 graph TD
@@ -20,7 +24,6 @@ graph TD
         BN[CPMAI Phase I: Business Understanding] --> DetFilter[Deterministic vs Probabilistic Filter\nThe 95% Rule]
         BN --> Feas[CPMAI 3x3 Feasibility Matrix]
         BN --> Alignment[AWS 4-Filter Selection Matrix]
-        
         Alignment --> TCO[3-Year TCO Analysis\nBuild vs Buy vs Partner]
         TCO --> ROI[4-Component ROI Model]
         ROI --> KPI[Multi-Stakeholder KPI Matrix\nCFO · COO · CIO · CHRO]
@@ -28,67 +31,59 @@ graph TD
     end
 ```
 
-#### 1. CPMAI Phase I: Matching AI to Business Needs
-* **Probabilistic vs. Deterministic Task Filtering (The 95% Rule)**: Before committing enterprise capital, proposals are screened against task predictability. If a decision tree or business rules engine covers 95% of operational cases, rule-based automation is deployed. AI is reserved strictly for probabilistic, high-variability pattern recognition (e.g., visual defect detection, unstructured natural language support).
-* **CPMAI 3x3 Feasibility Assessment**: Standardized Go/No-Go evaluation across 9 traffic-light indicators spanning **Business Feasibility** (clear problem definition, leadership commitment, sufficient ROI impact), **Data Feasibility** (data availability, access, quality), and **Execution Feasibility** (skills, timeline, operational fit).
-* **DIKUW Pyramid & 7 Patterns of AI Alignment**: Mapping business problems to the AI "Sweet Spot" at the **Knowledge** and **Understanding** layers of the DIKUW pyramid (Data, Information, Knowledge, Understanding, Wisdom) and classifying initiatives against the Seven Patterns of AI (Conversational, Recognition, Predictive Analytics, Hyper-Personalization, Patterns & Anomalies, Autonomous Systems, Goal-Driven Systems).
-* **Trustworthy AI Governance by Design**: Embedding fairness, explainability (XAI), privacy, safety, transparency, and human-in-the-loop (HITL) safeguards into Phase I planning rather than treating governance as a post-deployment afterthought.
+**The core filters I apply:**
 
-#### 2. Developing AI Strategies That Align with Business Objectives
-* **4-Filter Use Case Selection Framework**: Ranking and prioritizing candidate initiatives against four non-negotiable criteria: **Business Impact** (metric movement), **Data Availability** (clean, accessible training data), **Organizational Readiness** (operational ownership and champion sponsorship), and **Strategic Alignment** (support for the 3-year corporate roadmap).
-* **3-Year Build vs. Buy vs. Partner TCO Framework**: Evaluating vendor proposals past initial software license fees to model complete 3-Year Total Cost of Ownership (TCO). Incorporates upfront development, cloud infrastructure opex, and hidden operational costs (e.g., false-positive throughput losses on production lines) while enforcing 100% enterprise IP ownership pre-conditions.
-* **Active Portfolio Governance & Transition Strategy**: Managing AI portfolios through evidence-based decisions to **Scale** (proven return, strong data flywheel), **Pause** (with strict 30/60-day condition deadlines), or **Terminate** (unpromising projects stopped, budget redeployed). Transition approaches are tailored to continuity risk via **Parallel Running**, **Phased Rollout by Line/Site**, and pre-defined **Rollback Triggers**.
-
-#### 3. Measuring & Demonstrating AI Business Value
-* **Pre-Launch Baseline Capture**: Establishing rigorous pre-launch operational baselines prior to deployment to ensure ROI claims represent verifiable evidence rather than speculation ("A KPI without a baseline is an opinion; a KPI with a baseline is evidence").
-* **Multi-Stakeholder KPI Alignment Matrix**: Tailoring business value framing across executive perspectives:
-  * **CFO**: Net Annual Savings, EBITDA impact, 2-Year ROI %, and Payback Period (~10-12 months).
-  * **COO**: Scrap rate reduction, Overall Equipment Effectiveness (OEE) lift, and Mean Time Between Failures (MTBF).
-  * **CIO**: User adoption rate, data pipeline uptime SLA, and system integration health.
-  * **CHRO**: Recovered labor capacity and workforce productivity redeployment.
-* **Comprehensive 4-Component Financial ROI Model**:
-  $$\text{Net Annual Benefit} = (\text{Direct Savings} + \text{Indirect Gains} + \text{Productivity Gains}) - \text{Hidden Operating Costs}$$
-  * *Direct Savings*: Tangible cost reductions (scrap reduction, reduced manual inspection labor).
-  * *Indirect Gains*: Avoided downstream rework, customer complaint resolution, and expedited freight.
-  * *Hidden Operating Costs*: Ongoing cloud compute, model maintenance, data science oversight, and re-training opex.
-  * *Productivity Gains*: Hours recovered across operational leads and plant managers.
-* **Leading Indicators & FinOps Cost Factor Controls**: Tracking early project health signals (User Adoption Rate, Data Pipeline Health, Executive Sponsor Engagement, Model Accuracy Trajectory) to intercept drift early. Implementing FinOps cost controls including compute right-sizing, 15% data sampling for experimentation, and 90-day obsolete model artifact retention.
+- **Probabilistic vs. Deterministic (The 95% Rule):** if business rules cover 95% of cases, automate with rules — reserve AI for high-variability pattern recognition (visual defect detection, unstructured language).
+- **CPMAI 3x3 Feasibility:** Go/No-Go across Business, Data, and Execution feasibility (9 traffic-light indicators).
+- **DIKUW & 7 Patterns of AI:** mapping problems to the AI "sweet spot" (Knowledge/Understanding layers) and classifying against the seven AI patterns.
+- **4-Filter Use-Case Selection:** Business Impact, Data Availability, Organizational Readiness, Strategic Alignment.
+- **3-Year Build vs. Buy vs. Partner TCO:** full cost modeling including hidden opex (e.g., false-positive throughput losses), enforcing enterprise IP ownership.
+- **Active Portfolio Governance:** Scale, Pause (30/60-day conditions), or Terminate — via Parallel Running, Phased Rollout, and pre-defined Rollback Triggers.
+- **Value Measurement:** pre-launch baseline capture ("a KPI without a baseline is an opinion"), 4-component ROI model, multi-stakeholder KPI framing (CFO/COO/CIO/CHRO), and FinOps cost controls.
+- **Trustworthy AI by Design:** fairness, explainability, privacy, safety, and human-in-the-loop embedded in planning — not bolted on after deployment.
 
 ---
 
-### 🚀 Featured Enterprise AI Architecture Portfolio
+### 🚀 Featured AI Architecture Portfolio
 
-Below are four production-benchmarked architectural reference implementations engineered on AWS and evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks:
+Four production-grade prototype architectures I designed and built on AWS, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent builds — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client. Code walkthroughs available on request.
 
-#### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
-**Zero-Trust Retrieval-Augmented Generation Architecture with IAM RBAC Metadata Filtering**
-* **Strategic & Business Alignment**: Evaluated under CPMAI Phase I for Tier-1 support operations. Achieves a 35% reduction in Average Handle Time (AHT) yielding **$1.8M in annual operational savings** with a **<12-month payback period**.
-* **Architecture & Governance**: Enforces document-level AWS IAM Role-Based Access Control (RBAC) metadata filtering inside OpenSearch Serverless hybrid vector search, preventing cross-departmental data leaks. Powered by Cohere Cross-Encoder re-ranking, Amazon Bedrock (Claude 3.5 Sonnet), and automated CI/CD quality regression gates in AWS CodePipeline.
-* **Measured Production SLAs**: **92.4% Retrieval Precision** | **1.38s P95 Response Latency** | **100% RBAC Data Isolation** | **96.1% Citation Coverage**.
+#### 1. 🛡️ Permission-Aware AWS RAG Engine
 
-#### 2. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
+**Zero-Trust Retrieval-Augmented Generation with IAM RBAC Metadata Filtering**
+
+- Document-level AWS IAM RBAC metadata filtering inside OpenSearch Serverless hybrid vector search; Cohere Cross-Encoder re-ranking, Amazon Bedrock (Claude 3.5 Sonnet), CI/CD quality regression gates in CodePipeline.
+- Modeled impact at Tier-1 support scale: 35% reduction in Average Handle Time (AHT), ~$1.8M/yr savings, <12-month payback.
+- Prototype benchmarks: **92.4% Retrieval Precision** | **1.38s P95 Latency** | **100% RBAC Isolation** | **96.1% Citation Coverage**.
+
+#### 2. 🤖 Agentic Workflow Automation & Tool Governance
+
 **Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
-* **CPMAI & Governance Alignment**: Separates probabilistic LLM reasoning from state-changing database write operations. Enforces mandatory HITL approval for high-risk write actions (refunds, privilege modifications), delivering **$1.2M in annual risk avoidance**.
-* **Architecture & Control**: Dynamic agentic planning via **Amazon Bedrock AgentCore** and **Model Context Protocol (MCP)** on AWS Fargate/Lambda, guarded by deterministic **AWS Step Functions** state machines.
-* **Measured Production SLAs**: **95.2% Tool Execution Accuracy** | **100% Prompt-Injection Attack Blocking** | **100% HITL Policy Compliance**.
 
-#### 3. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
+- Dynamic agentic planning via Amazon Bedrock AgentCore and Model Context Protocol (MCP) on Fargate/Lambda, guarded by deterministic AWS Step Functions state machines; mandatory HITL approval for high-risk writes (refunds, privilege changes).
+- Modeled impact: ~$1.2M/yr risk avoidance.
+- Prototype benchmarks: **95.2% Tool Execution Accuracy** | **100% Prompt-Injection Blocking** | **100% HITL Policy Compliance**.
+
+#### 3. 📊 Automated LLMOps Telemetry & Quality Guardrails
+
 **Full-Stack Observability & Continuous In-Pipeline Quality Regression Gating**
-* **CPMAI & Risk Alignment**: Protects enterprise SLAs and prevents silent model degradation by automatically aborting deployments if citation accuracy or hallucination rates exceed threshold guardrails (**$950K/yr risk avoidance**).
-* **Architecture & Observability**: Real-time distributed tracing with **AWS X-Ray** and **Amazon CloudWatch**, paired with automated pre-deployment evaluation harnesses using **AWS SageMaker Model Evaluation** integrated into AWS CodePipeline.
-* **Measured Production SLAs**: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency SLA** | **100% Trace Coverage**.
 
-#### 4. 🗣️  [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
+- Real-time distributed tracing with AWS X-Ray and CloudWatch; pre-deployment evaluation harnesses via SageMaker Model Evaluation in CodePipeline; deployments auto-abort when citation accuracy or hallucination rates breach guardrails.
+- Modeled impact: ~$950K/yr risk avoidance.
+- Prototype benchmarks: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency** | **100% Trace Coverage**.
+
+#### 4. 🗣️ GenAI ChatBot — Afrikaans AI Companion
+
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
-* **CPMAI & Pattern Alignment**: Maps to the **Conversational & Human Interaction** pattern and **Augmented Intelligence** framework to interact with Kaapse Afrikaans (Cape Flats) and formal Afrikaans heritage through ultra-low latency voice engagement.
-* **Architecture**: Full-duplex WebSocket audio streaming pipeline integrating **Gemini Live API** with 16kHz PCM capture, Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis, hosted on Cloud Run.
+
+- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats) and formal Afrikaans.
 
 ---
 
 ### 🛠️ Strategic & Technical Program Management Competencies
 
 | Competency Pillar | Specialization & Tooling |
-| :--- | :--- |
+| --- | --- |
 | **Enterprise AI Strategy** | CPMAI Phase I Business Feasibility, AWS Methodologies, Build vs. Buy vs. Partner TCO Analysis, Active Portfolio Governance (Scale/Pause/Terminate), Shadow AI Governance |
 | **Financial & Value Governance** | 4-Component Financial ROI Modeling, Pre-Launch Baseline Capture, Multi-Stakeholder KPI Framing (CFO/COO/CIO/CHRO), FinOps Cost Factor Controls, Payback Period Calculation |
 | **AI Architecture & RAG** | Permission-Aware RAG, Amazon Bedrock, OpenSearch Serverless Hybrid Search, Cohere Cross-Encoder Re-Ranking, Prompt Engineering & Guardrails, Vector Indexing |
@@ -100,18 +95,18 @@ Below are four production-benchmarked architectural reference implementations en
 
 ### 📜 Certifications, Patents & Education
 
-* **Project Management Professional (PMP)** | Project Management Institute
-* **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
-* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services (in progress)
-* **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
-* **B.S. in Computer Science & Mathematics** | University of the Western Cape
-* **U.S. Patents**:
-  * *Patent #8,683,579*: Software Activation Using Digital Licenses
-  * *Patent #8,984,124*: System and Method for Adaptive Data Monitoring
+- **Project Management Professional (PMP)** | Project Management Institute
+- **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
+- **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services (in progress)
+- **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
+- **B.S. in Computer Science & Mathematics** | University of the Western Cape
+- **U.S. Patents**:
+  - *Patent #8,683,579*: Software Activation Using Digital Licenses
+  - *Patent #8,984,124*: System and Method for Adaptive Data Monitoring
 
 ---
 
 ### 📬 Connect & Collaborate
 
-* 💼 **LinkedIn**: https://www.linkedin.com/in/david-maralack-3898135/
-* 📧 **Email**: maralackdavid@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/david-maralack-3898135/
+- 📧 **Email**: <maralackdavid@gmail.com>
