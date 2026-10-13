@@ -65,7 +65,7 @@ Four production-grade prototype architectures I designed and built on AWS, evalu
 
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
 
-- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats) and formal Afrikaans.
+- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats), formal Afrikaans and isiXhosa.
 
 ---
 
