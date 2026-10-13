@@ -4,7 +4,7 @@
 
 📍 Seattle, WA | <maralackdavid@gmail.com> | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
 
-*Currently: AI & Cloud Architecture TPM consultant (2024–present) — open to senior Technical Program Manager roles.*
+*Currently: Independent AI & Cloud Architecture TPM (2024–present) — building production-grade AI prototypes; open to senior Technical Program Manager roles.*
 
 ---
 
