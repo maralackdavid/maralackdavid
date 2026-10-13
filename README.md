@@ -115,5 +115,5 @@ Below are four production-benchmarked architectural reference implementations en
 
 ### 📬 Connect & Collaborate
 
-* 💼 **LinkedIn**: linkedin.com/in/david-maralack/
+* 💼 **LinkedIn**: [linkedin.com/in/david-maralack/](https://www.linkedin.com/in/david-maralack/)
 * 📧 **Email**: maralackdavid@gmail.com
