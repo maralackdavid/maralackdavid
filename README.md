@@ -1,6 +1,6 @@
 # David Maralack, PMP, PMI-CPMAI
 ##### **Senior Technical Program Manager | Enterprise AI Strategy | Cloud Solutions Architecture | Software & Hardware Delivery**
-📍 Seattle, WA | maralackdavid@gmail.com | LinkedIn: https://www.linkedin.com/in/david-maralack/
+📍 Seattle, WA | maralackdavid@gmail.com | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
 
 ---
 
@@ -115,5 +115,5 @@ Below are four production-benchmarked architectural reference implementations en
 
 ### 📬 Connect & Collaborate
 
-* 💼 **LinkedIn**: [linkedin.com/in/david-maralack/](https://www.linkedin.com/in/david-maralack/)
+* 💼 **LinkedIn**: https://www.linkedin.com/in/david-maralack-3898135/
 * 📧 **Email**: maralackdavid@gmail.com
