@@ -104,7 +104,7 @@ Below are four production-benchmarked architectural reference implementations en
 
 * **Project Management Professional (PMP)** | Project Management Institute
 * **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
-* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services
+* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services (in progress)
 * **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
 * **B.S. in Computer Science & Mathematics** | University of the Western Cape
 * **U.S. Patents**:
