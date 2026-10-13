@@ -1,6 +1,6 @@
 # David Maralack, PMP, PMI-CPMAI
 ##### **Senior Technical Program Manager | Enterprise AI Strategy | Cloud Solutions Architecture | Software & Hardware Delivery**
-📍 Seattle, WA | maralackdavid@gmail.com | LinkedIn: https://www.linkedin.com/in/david-maralack-b1a7682b3/
+📍 Seattle, WA | maralackdavid@gmail.com | LinkedIn: https://www.linkedin.com/in/david-maralack/
 
 ---
 
