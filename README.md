@@ -35,7 +35,7 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 ### 🚀 Featured AI Architecture Portfolio
 
-Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent builds — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client. Code walkthroughs available on request.
+Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client. Code walkthroughs available on request.
 
 #### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
 
