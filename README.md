@@ -1,6 +1,6 @@
 ## David Maralack, PMP, PMI-CPMAI
 
-##### **Senior Technical Program Manager | Enterprise AI Strategy | Cloud Solutions Architecture | Software & Hardware Delivery**
+##### **Senior Technical Program Manager | Software & Hardware Delivery | Enterprise AI Strategy | Cloud Solutions Architecture**
 
 ###### 📍 Seattle, WA | <maralackdavid@gmail.com> | LinkedIn: https://www.linkedin.com/in/david-maralack-3898135/
 
@@ -35,7 +35,7 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 ### 🚀 Featured AI Architecture Portfolio
 
-Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client. Code walkthroughs available on request.
+Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client.
 
 #### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
 
