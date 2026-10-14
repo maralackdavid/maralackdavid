@@ -66,7 +66,7 @@ Four production-grade prototype architectures I designed and built on AWS and Go
 **Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
 
 - Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats), formal Afrikaans and isiXhosa.
-
+- **Try the working prototype**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app/) 
 ---
 
 ### 🛠️ Strategic & Technical Program Management Competencies
