@@ -32,6 +32,9 @@ Every AI initiative I lead goes through rigorous business justification before c
 - **Trustworthy AI by Design:** fairness, explainability, privacy, safety, and human-in-the-loop embedded in planning — not bolted on after deployment.
 
 ---
+### 🚀 Featured AI Architecture Portfolio
+
+Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client.
 
 | # | Project | Focus | Key Tech | Mectrics / Prototype benchmarks |
 |---|---------|-------|----------|---------------------------------|
@@ -42,9 +45,6 @@ Every AI initiative I lead goes through rigorous business justification before c
 | 5 | 🏦 [Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md) | AI risk registry, policy guardrails, audit | OPA, Bedrock Guardrails, PrivateLink | <60ms P99 Policy-Gate Latency, 98.2% Guardrail Block Precision, 100% Audit Integrity,<90s Kill-Switch Propagation |
 
 ---
-### 🚀 Featured AI Architecture Portfolio
-
-Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client.
 
 #### 1. 🗣️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
 
