@@ -33,8 +33,8 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 ---
 
-| # | Project | Focus | Key Tech | Prototype benchmarks |
-|---|---------|-------|----------|----------------------|
+| # | Project | Focus | Key Tech | Mectrics / Prototype benchmarks |
+|---|---------|-------|----------|---------------------------------|
 | 1 | 🗣️ A[GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md) | Full-duplex voice language learning | Gemini Live API, Cloud Run, Veo | 68% cost cut vs. tutoring; 50K learners |
 | 2 | 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md) | Zero-trust RAG with IAM RBAC filtering | Bedrock, OpenSearch Serverless, Cohere | 92.4% Retrieval Precision, 1.38s P95 Latency, 100% RBAC Isolation, 96.1% Citation Coverage |
 | 3 | 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md) | Multi-agent orchestration, HITL safeguards | Bedrock AgentCore, MCP, Step Functions | 95.2% Tool Execution Accuracy, 100% Prompt-Injection Blocking, 100% HITL Policy Compliance |
