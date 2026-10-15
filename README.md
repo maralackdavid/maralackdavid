@@ -34,7 +34,7 @@ Every AI initiative I lead goes through rigorous business justification before c
 ---
 ### 🚀 Featured AI Architecture Portfolio
 
-Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client.
+Five production-grade prototype architectures built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures and benchmarks are modeled at enterprise scale, not measured at a client.
 
 | # | Project | Focus | Key Tech | Mectrics / Prototype benchmarks |
 |---|---------|-------|----------|---------------------------------|
