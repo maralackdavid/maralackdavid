@@ -34,7 +34,7 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 Five production-grade prototype architectures built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks.
 
-> **Prototype disclaimer:** Independent AWS lab-based production-grade AI proof-of-concepts — **no client engagements**. All business-value figures are *modeled* at enterprise scale, not measured at a client. Benchmarks below are simulated prototype evaluation results.
+> **Prototype disclaimer:** Independent lab-based production-grade AI proof-of-concepts — **no client engagements**. All business-value figures are *modeled* at enterprise scale, not measured at a client. Benchmarks below are simulated prototype evaluation results.
 
 | # | Project | Focus | Key Tech | Prototype mectrics/benchmarks |
 |---|---------|-------|----------|---------------------------------|
