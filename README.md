@@ -84,7 +84,7 @@ Five production-grade prototype architectures built on AWS and Google Cloud, eva
 - Applies the AI Business Strategy framework (AIB-C01 methodology) to AWS's Governed Inference Platform sample: AI use-case registry with EU AI Act risk-tier classification, policy-as-code deployment gates (OPA + Bedrock Guardrails), PrivateLink-only Bedrock access, immutable audit trail (S3 Object Lock + Athena), and an org-wide kill switch.
 - Modeled impact: ~$2.25M/yr net annual benefit, ~5-month payback, ~436% 3-year ROI; 3-yr TCO $1.4M vs. $4.1M Big-4-led program.
 - Prototype benchmarks: **<60ms P99 Policy-Gate Latency** | **98.2% Guardrail Block Precision** | **100% Audit Integrity** | **<90s Kill-Switch Propagation**.
-- 
+
 ---
 
 ### 🛠️ Strategic & Technical Program Management Competencies
