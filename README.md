@@ -37,7 +37,14 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 Four production-grade prototype architectures I designed and built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures are modeled at enterprise scale, not measured at a client.
 
-#### 1. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
+#### 1. 🗣️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
+
+**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
+
+- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats), formal Afrikaans and isiXhosa.
+- **Try the working prototype**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app/)
+
+#### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
 
 **Zero-Trust Retrieval-Augmented Generation with IAM RBAC Metadata Filtering**
 
@@ -45,7 +52,7 @@ Four production-grade prototype architectures I designed and built on AWS and Go
 - Modeled impact at Tier-1 support scale: 35% reduction in Average Handle Time (AHT), ~$1.8M/yr savings, <12-month payback.
 - Prototype benchmarks: **92.4% Retrieval Precision** | **1.38s P95 Latency** | **100% RBAC Isolation** | **96.1% Citation Coverage**.
 
-#### 2. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
+#### 3. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
 
 **Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
 
@@ -53,7 +60,7 @@ Four production-grade prototype architectures I designed and built on AWS and Go
 - Modeled impact: ~$1.2M/yr risk avoidance.
 - Prototype benchmarks: **95.2% Tool Execution Accuracy** | **100% Prompt-Injection Blocking** | **100% HITL Policy Compliance**.
 
-#### 3. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
+#### 4. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
 
 **Full-Stack Observability & Continuous In-Pipeline Quality Regression Gating**
 
@@ -61,12 +68,6 @@ Four production-grade prototype architectures I designed and built on AWS and Go
 - Modeled impact: ~$950K/yr risk avoidance.
 - Prototype benchmarks: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency** | **100% Trace Coverage**.
 
-#### 4. 🗣️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
-
-**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
-
-- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats), formal Afrikaans and isiXhosa.
-- **Try the working prototype**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app/) 
 ---
 
 ### 🛠️ Strategic & Technical Program Management Competencies
