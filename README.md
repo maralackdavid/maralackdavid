@@ -33,13 +33,13 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 ---
 
-| # | Project | Focus | Key Tech | Modeled Value |
-|---|---------|-------|----------|---------------|
+| # | Project | Focus | Key Tech | Prototype benchmarks |
+|---|---------|-------|----------|----------------------|
 | 1 | 🗣️ A[GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md) | Full-duplex voice language learning | Gemini Live API, Cloud Run, Veo | 68% cost cut vs. tutoring; 50K learners |
-| 2 | 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md) | Zero-trust RAG with IAM RBAC filtering | Bedrock, OpenSearch Serverless, Cohere | ~$1.26M/yr net savings |
-| 3 | 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md) | Multi-agent orchestration, HITL safeguards | Bedrock AgentCore, MCP, Step Functions | ~$1.2M/yr risk avoidance |
-| 4 | 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md) | Observability, in-pipeline quality gates | X-Ray, CloudWatch, SageMaker | ~$950K/yr risk avoidance |
-| 5 | 🏦 [Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md) | AI risk registry, policy guardrails, audit | OPA, Bedrock Guardrails, PrivateLink | ~$2.25M/yr net; ~5-mo payback |
+| 2 | 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md) | Zero-trust RAG with IAM RBAC filtering | Bedrock, OpenSearch Serverless, Cohere | 92.4% Retrieval Precision, 1.38s P95 Latency, 100% RBAC Isolation, 96.1% Citation Coverage |
+| 3 | 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md) | Multi-agent orchestration, HITL safeguards | Bedrock AgentCore, MCP, Step Functions | 95.2% Tool Execution Accuracy, 100% Prompt-Injection Blocking, 100% HITL Policy Compliance |
+| 4 | 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md) | Observability, in-pipeline quality gates | X-Ray, CloudWatch, SageMaker | 96.1% Citation Accuracy, 2.3% Hallucination Rate, 1.42s P95 Latency, 100% Trace Coverage |
+| 5 | 🏦 [Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md) | AI risk registry, policy guardrails, audit | OPA, Bedrock Guardrails, PrivateLink | <60ms P99 Policy-Gate Latency, 98.2% Guardrail Block Precision, 100% Audit Integrity,<90s Kill-Switch Propagation |
 
 ---
 ### 🚀 Featured AI Architecture Portfolio
