@@ -15,7 +15,7 @@ and Microsoft (Windows) — spanning device NPI, large-scale telemetry, and trad
 
 ### 🎯 How I Evaluate AI Investments: CPMAI & AWS Strategy Frameworks
 
-Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** framework and the **AWS AI Business Strategist** methodology:
+Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** and the **AWS AI Business Strategist** frameworks and methodologies:
 
 
 **Some of the core frameworks and methodologies I apply:**
