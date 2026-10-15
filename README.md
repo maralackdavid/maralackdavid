@@ -36,7 +36,7 @@ Every AI initiative I lead goes through rigorous business justification before c
 
 Five production-grade prototype architectures built on AWS and Google Cloud, evaluated under the **PMI-CPMAI** and **AWS AI Business Strategy** frameworks. These are independent proof of concepts — no client engagements — and the business-value figures and benchmarks are modeled at enterprise scale, not measured at a client.
 
-| # | Project | Focus | Key Tech | Mectrics / Prototype benchmarks |
+| # | Project | Focus | Key Tech | Prototype mectrics/benchmarks |
 |---|---------|-------|----------|---------------------------------|
 | 1 | 🗣️ A[GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md) | Full-duplex voice language learning | Gemini Live API, Cloud Run, Veo | 68% cost cut vs. tutoring; 50K learners |
 | 2 | 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md) | Zero-trust RAG with IAM RBAC filtering | Bedrock, OpenSearch Serverless, Cohere | 92.4% Retrieval Precision, 1.38s P95 Latency, 100% RBAC Isolation, 96.1% Citation Coverage |
