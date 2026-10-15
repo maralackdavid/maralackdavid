@@ -68,7 +68,7 @@ Four production-grade prototype architectures I designed and built on AWS and Go
 - Modeled impact: ~$950K/yr risk avoidance.
 - Prototype benchmarks: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency** | **100% Trace Coverage**.
 
-#### 5. 🏦 Enterprise GenAI Governance Control Plane
+#### 5. 🏦[Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md)
 
 **Applied AI Business Strategy on AWS's Governed Inference Platform**
 
