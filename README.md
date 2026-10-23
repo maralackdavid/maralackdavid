@@ -12,22 +12,35 @@
 
 ---
 
-### 🎯 How I Evaluate AI Investments: CPMAI & AWS Strategy Frameworks
+### Core Competencies: CPMAI & AWS AI Business Strategy Frameworks
 
-Every AI initiative I lead goes through rigorous business justification before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** and the **AWS AI Business Strategist** frameworks and methodologies:
+Every AI initiative I lead undergoes rigorous business justification and data-centric feasibility screening before code is written, anchored on the **Cognitive Project Management for AI (CPMAI)** framework and **AWS AI Business Strategist** methodologies:
 
+#### 1. CPMAI 6-Phase Lifecycle & Gate Governance (PMI-CPMAI)
+* **Phase I (Business Understanding)**: Evaluates business objectives, maps requirements to the **Seven Patterns of AI** (*Conversational*, *Recognition*, *Predictive Analytics*, *Hyper-Personalization*, *Patterns & Anomalies*, *Autonomous Systems*, *Goal-Driven Systems*), and verifies data feasibility at the **DIKUW Knowledge level** (Data -> Information -> Knowledge -> Understanding -> Wisdom).
+* **Phase II & III (Data Understanding & Preparation)**: Audits data sources for quality, bias, and privacy compliance; enforces FinOps data sampling policies (e.g., 15% sample limits) to control experimental compute costs.
+* **Phase IV & V (Model Development & Evaluation)**: Integrates automated CI/CD quality regression gates, golden test datasets, and model evaluation harnesses (citation accuracy, hallucination rates, P95 latency).
+* **Phase VI (Operationalization & Gate Controls)**: Implements formal **Go/No-Go Decision Gates (Gates 1–4)** with strict SLA exit criteria before advancing initiatives from laboratory PoCs to production deployment.
 
-**Some of the core frameworks and methodologies I apply:**
+#### 2. Strategic Solution Selection & Architecture (AWS AI Business Strategy)
+* **Probabilistic vs. Deterministic Filtering (The 95% Rule)**: If a decision tree or rules engine covers 95%+ of operational cases, build the rules engine; reserve cognitive ML for high-variability unstructured data and complex visual patterns.
+* **4-Filter Use Case Selection Framework**: Systematically screens candidates across **Business Impact** (quantifiable metric movement), **Data Availability** (baseline cleanliness), **Organizational Readiness** (sponsor alignment), and **Strategic Alignment** (3-year enterprise roadmap).
+* **3-Year Build vs. Buy vs. Partner TCO Framework**: Models full Total Cost of Ownership across 3-year horizons—evaluating upfront development fees, ongoing maintenance, hidden false-positive throughput losses, and securing **100% full enterprise IP ownership**.
+* **Active Portfolio Governance & Phased Transition**: Classifies active initiatives into **Scale** (proven return), **Pause** (30/60-day condition triggers), or **Terminate** (budget redeployment), employing line-by-line phased rollouts with predefined rollback triggers to minimize operational blast radius.
 
-- **Probabilistic vs. Deterministic (The 95% Rule):** if business rules cover 95% of cases, automate with rules — reserve AI for high-variability pattern recognition (visual defect detection, unstructured language).
-- **CPMAI 3x3 Feasibility:** Go/No-Go across Business, Data, and Execution feasibility (9 traffic-light indicators).
-- **DIKUW & 7 Patterns of AI:** mapping problems to the AI "sweet spot" (Knowledge/Understanding layers) and classifying against the seven AI patterns.
-- **4-Filter Use-Case Selection:** Business Impact, Data Availability, Organizational Readiness, Strategic Alignment.
-- **3-Year Build vs. Buy vs. Partner TCO:** full cost modeling including hidden opex (e.g., false-positive throughput losses), enforcing enterprise IP ownership.
-- **Active Portfolio Governance:** Scale, Pause (30/60-day conditions), or Terminate — via Parallel Running, Phased Rollout, and pre-defined Rollback Triggers.
-- **Value Measurement:** pre-launch baseline capture ("a KPI without a baseline is an opinion"), 4-component ROI model, multi-stakeholder KPI framing (CFO/COO/CIO/CHRO), and FinOps cost controls.
-- **Trustworthy AI by Design:** fairness, explainability, privacy, safety, and human-in-the-loop embedded in planning — not bolted on after deployment.
+#### 3. Value Measurement & Financial Governance (AWS AI Business Strategy)
+* **Pre-Launch Baseline Capture**: Enforces strict baseline measurements prior to deployment (*"A KPI without a baseline is an opinion; a KPI with a baseline is evidence"*).
+* **4-Component Financial ROI Equation**: Formulates defensible C-suite business cases modeling net operating benefits across Direct Savings, Indirect Gains, Hidden Operating Costs, and Productivity Gains.
+* **Multi-Stakeholder KPI Matrix**: Tailors financial and operational scorecards for executive stakeholders:
+  * **CFO**: Net Annual Savings, Payback Period (~7–12 months), 2-Year ROI (200%+).
+  * **COO / Plant Ops**: Scrap Rate Reduction, OEE Lift, False Positive Rate (<2.8%), MTBF.
+  * **CIO / CTO**: User Adoption Rate, Data Pipeline Uptime (>99.2%), Integration Health, SLA Compliance.
+  * **CHRO / Legal**: Recovered Workforce Hours, Responsible AI Compliance, Audit Trail Integrity.
+* **FinOps & Leading Indicator Controls**: Monitors leading indicators (user adoption, pipeline uptime, accuracy trajectory) and enforces FinOps cost controls (compute right-sizing, 90-day model artifact retention).
 
+#### 4. Trustworthy & Responsible AI Governance
+* **8 Dimensions of Responsible AI**: Integrates *Fairness*, *Explainability*, *Controllability*, *Transparency*, *Governance*, *Privacy & Security*, *Safety*, and *Veracity & Robustness* directly into project planning.
+* **Zero-Trust & Human-in-the-Loop (HITL)**: Enforces deterministic state-machine approval gates on high-risk write operations (refunds > $500, IAM privilege updates, database schema changes), policy-as-code (OPA + Bedrock Guardrails), and document-level IAM RBAC data isolation.
 ---
 ### 🚀 Featured AI Architecture Portfolio
 
