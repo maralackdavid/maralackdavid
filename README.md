@@ -99,29 +99,21 @@ Five production-grade prototype architectures built on AWS and Google Cloud, eva
 
 ---
 
-### 🛠️ Strategic & Technical Program Management Competencies
-
-| Competency Pillar | Specialization & Tooling |
-| --- | --- |
-| **Enterprise AI Strategy** | CPMAI Phase I Business Feasibility, AWS Methodologies, Build vs. Buy vs. Partner TCO Analysis, Active Portfolio Governance (Scale/Pause/Terminate), Shadow AI Governance |
-| **Financial & Value Governance** | 4-Component Financial ROI Modeling, Pre-Launch Baseline Capture, Multi-Stakeholder KPI Framing (CFO/COO/CIO/CHRO), FinOps Cost Factor Controls, Payback Period Calculation |
-| **AI Architecture & RAG** | Permission-Aware RAG, Amazon Bedrock, OpenSearch Serverless Hybrid Search, Cohere Cross-Encoder Re-Ranking, Prompt Engineering & Guardrails, Vector Indexing |
-| **Agentic Systems & Governance** | Amazon Bedrock AgentCore, Model Context Protocol (MCP), AWS Step Functions HITL State Machines, Deterministic Guardrails, Tool Execution Oversight |
-| **LLMOps & Observability** | SageMaker Model Evaluation, Ragas Evaluation Framework, AWS X-Ray Distributed Tracing, CloudWatch Telemetry, Continuous CI/CD Quality Regression Gating |
-| **Executive Leadership** | 20+ Years Enterprise Delivery (Amazon, Microsoft), Cross-Functional Stakeholder Alignment, PMP Agile/Waterfall Governance, U.S. Patent Holder |
+** | AWS Lake Formation, AWS Glue, Amazon Athena, Amazon QuickSight, DIKUW Knowledge-Level Data Roadmaps, Pipeline Latency SLAs |
+| **Executive Leadership** | 20+ Years Enterprise Delivery (Amazon, Microsoft), Cross-Functional Alignment, PMP Agile/Waterfall Governance, U.S. Patent Holder |
 
 ---
 
-### 📜 Certifications, Patents & Education
+### Certifications, Patents & Education
 
-- **Project Management Professional (PMP)** | Project Management Institute
-- **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
-- **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services (in progress)
-- **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
-- **B.S. in Computer Science & Mathematics** | University of the Western Cape
-- **U.S. Patents**:
-  - *Patent #8,683,579*: Software Activation Using Digital Licenses
-  - *Patent #8,984,124*: System and Method for Adaptive Data Monitoring
+* **Project Management Professional (PMP)** | Project Management Institute
+* **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
+* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services *(In Progress)*
+* **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
+* **B.S. in Computer Science & Mathematics** | University of the Western Cape
+* **U.S. Patents**:
+  * *Patent #8,683,579*: Software Activation Using Digital Licenses
+  * *Patent #8,984,124*: System and Method for Adaptive Data Monitoring
 
 ---
 
