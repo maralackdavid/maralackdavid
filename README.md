@@ -58,52 +58,6 @@ Five production-grade prototype architectures built on AWS and Google Cloud, eva
 
 ---
 
-#### 1. 🗣️ [GenAI ChatBot - Afrikaans AI Companion (Multimodal Heritage & Real-Time Voice System)](https://github.com/maralackdavid/Afrikaans-AI-companion/blob/main/README.md)
-
-**Full-Duplex Multimodal Language Learning & Cultural Preservation Platform**
-
-- Full-duplex WebSocket audio streaming with Gemini Live API (16kHz PCM capture), Gemini 3.1 Flash Lite, Gemini TTS, and Google Veo video synthesis on Cloud Run. Supports Kaapse Afrikaans (Cape Flats), formal Afrikaans and isiXhosa.
-- **Try the working prototype**: [Maralack Cape Flats AI Companion](https://maralack-afrikaans-ai-companion-1072691364189.us-east1.run.app/)
-
-#### 2. 🛡️ [Permission-Aware AWS RAG Engine](https://github.com/maralackdavid/aws-permission-aware-rag-engine/blob/main/README.md)
-
-**Zero-Trust Retrieval-Augmented Generation with IAM RBAC Metadata Filtering**
-
-- Document-level AWS IAM RBAC metadata filtering inside OpenSearch Serverless hybrid vector search; Cohere Cross-Encoder re-ranking, Amazon Bedrock (Claude 3.5 Sonnet), CI/CD quality regression gates in CodePipeline.
-- Modeled impact at Tier-1 support scale: 35% reduction in Average Handle Time (AHT), ~$1.8M/yr savings, <12-month payback.
-- Prototype benchmarks: **92.4% Retrieval Precision** | **1.38s P95 Latency** | **100% RBAC Isolation** | **96.1% Citation Coverage**.
-
-#### 3. 🤖 [Agentic Workflow Automation & Tool Governance](https://github.com/maralackdavid/aws-agentcore-mcp-governance/blob/main/README.md)
-
-**Multi-Agent Tool Orchestration with Deterministic Human-in-the-Loop (HITL) Safeguards**
-
-- Dynamic agentic planning via Amazon Bedrock AgentCore and Model Context Protocol (MCP) on Fargate/Lambda, guarded by deterministic AWS Step Functions state machines; mandatory HITL approval for high-risk writes (refunds, privilege changes).
-- Modeled impact: ~$1.2M/yr risk avoidance.
-- Prototype benchmarks: **95.2% Tool Execution Accuracy** | **100% Prompt-Injection Blocking** | **100% HITL Policy Compliance**.
-
-#### 4. 📊 [Automated LLMOps Telemetry & Quality Guardrails](https://github.com/maralackdavid/aws-llmops-quality-guardrails/blob/main/README.md)
-
-**Full-Stack Observability & Continuous In-Pipeline Quality Regression Gating**
-
-- Real-time distributed tracing with AWS X-Ray and CloudWatch; pre-deployment evaluation harnesses via SageMaker Model Evaluation in CodePipeline; deployments auto-abort when citation accuracy or hallucination rates breach guardrails.
-- Modeled impact: ~$950K/yr risk avoidance.
-- Prototype benchmarks: **96.1% Citation Accuracy** | **2.3% Hallucination Rate** | **1.42s P95 Latency** | **100% Trace Coverage**.
-
-#### 5. 🏦[Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md)
-
-**Applied AI Business Strategy on AWS's Governed Inference Platform**
-
-- Applies the AI Business Strategy framework (AIB-C01 methodology) to AWS's Governed Inference Platform sample: AI use-case registry with EU AI Act risk-tier classification, policy-as-code deployment gates (OPA + Bedrock Guardrails), PrivateLink-only Bedrock access, immutable audit trail (S3 Object Lock + Athena), and an org-wide kill switch.
-- Modeled impact: ~$2.25M/yr net annual benefit, ~5-month payback, ~436% 3-year ROI; 3-yr TCO $1.4M vs. $4.1M Big-4-led program.
-- Prototype benchmarks: **<60ms P99 Policy-Gate Latency** | **98.2% Guardrail Block Precision** | **100% Audit Integrity** | **<90s Kill-Switch Propagation**.
-
----
-
-** | AWS Lake Formation, AWS Glue, Amazon Athena, Amazon QuickSight, DIKUW Knowledge-Level Data Roadmaps, Pipeline Latency SLAs |
-| **Executive Leadership** | 20+ Years Enterprise Delivery (Amazon, Microsoft), Cross-Functional Alignment, PMP Agile/Waterfall Governance, U.S. Patent Holder |
-
----
-
 ### Certifications, Patents & Education
 
 * **Project Management Professional (PMP)** | Project Management Institute
