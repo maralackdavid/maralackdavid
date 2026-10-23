@@ -57,6 +57,18 @@ Five production-grade prototype architectures built on AWS and Google Cloud, eva
 | 5 | 🏦 [Enterprise GenAI Governance Control Plane](https://github.com/maralackdavid/Enterprise-GenAI-Governance/blob/main/README.md) | AI risk registry, policy guardrails, audit | OPA, Bedrock Guardrails, PrivateLink | <60ms P99 Policy-Gate Latency, 98.2% Guardrail Block Precision, 100% Audit Integrity,<90s Kill-Switch Propagation |
 
 ---
+### Strategic & Technical Program Management Competency Matrix
+
+| Competency Pillar | Specialization, Methodologies & Tooling |
+|---|---|
+| **Enterprise AI Strategy** | CPMAI Phase I Business Feasibility, 4-Filter Selection Matrix, Build vs. Buy vs. Partner 3-Yr TCO, Active Portfolio Governance (Scale/Pause/Terminate), Shadow AI Risk Governance |
+| **Financial & Value Governance** | 4-Component Financial ROI Modeling, Pre-Launch Baseline Capture, Multi-Stakeholder KPI Framing (CFO/COO/CIO/CHRO), Payback Calculation, FinOps Cost Factor Controls |
+| **AI Architecture & RAG** | Permission-Aware RAG, Amazon Bedrock, OpenSearch Serverless Hybrid Search, Cohere Re-Ranking, Vector Indexing, Prompt Engineering & Guardrails |
+| **Agentic Systems & Governance** | Amazon Bedrock AgentCore, Model Context Protocol (MCP), AWS Step Functions HITL State Machines, Deterministic Guardrails, Tool Execution Oversight |
+| **LLMOps & Observability** | SageMaker Model Evaluation, Ragas Evaluation Framework, AWS X-Ray Tracing, CloudWatch Telemetry, Automated CI/CD Quality Regression Gates |
+| **Data Lakehouse Governance** | AWS Lake Formation, AWS Glue, Amazon Athena, Amazon QuickSight, DIKUW Knowledge-Level Data Roadmaps, Pipeline Latency SLAs |
+| **Executive Leadership** | 20+ Years Enterprise Delivery (Amazon, Microsoft), Cross-Functional Alignment, PMP Agile/Waterfall Governance, U.S. Patent Holder |
+---
 
 ### Certifications, Patents & Education
 
