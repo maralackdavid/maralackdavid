@@ -8,7 +8,7 @@
 
 ### 🏛️ Executive Summary
 
-**Senior Technical Program Management Leader** with 20+ years driving global software and hardware ecosystems at **Amazon** (Alexa, Kindle) and **Microsoft** (Windows) — spanning device NPI, large-scale telemetry, and enterprise software solutions — complemented by an ongoing, intensive focus on enterprise AI strategy, cloud architecture, and CPMAI governance. **Certified PMP and PMI-CPMAI, applying AWS AI Business Strategist frameworks (AIB-C01 in progress)**, specializing in bridging AWS cloud engineering with executive business and financial governance to deliver high-impact GenAI, Agentic workflows, and predictive AI initiatives. Translates complex AI capabilities into executive business cases using **3-Year TCO models**, **4-Component ROI frameworks**, and **CPMAI Phase Gate project controls** — delivering AI initiatives that scale safely, enforce zero-trust security, and yield provable, sustainable business value.
+**Senior Technical Program Management Leader** with 20+ years driving global software and hardware ecosystems at **Amazon** (Alexa, Kindle) and **Microsoft** (Windows) — spanning device NPI, large-scale telemetry, and enterprise software solutions — complemented by an ongoing, intensive focus on enterprise AI strategy, cloud architecture, and CPMAI governance. **Certified PMP, PMI-CPMAI, and AWS AI Business Strategist**, specializing in bridging AWS cloud architecture with executive business and financial governance to deliver high-impact GenAI, Agentic workflows, and predictive AI initiatives. Translates complex AI capabilities into executive business cases using **3-Year TCO models**, **4-Component ROI frameworks**, and **CPMAI Phase Gate project controls** — delivering AI initiatives that scale safely, enforce zero-trust security, and yield provable, sustainable business value.
 
 ---
 
@@ -74,7 +74,7 @@ Five production-grade prototype architectures built on AWS and Google Cloud, eva
 
 * **Project Management Professional (PMP)** | Project Management Institute
 * **PMI Certified Professional in Managing AI (PMI-CPMAI)** | Project Management Institute
-* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services *(In Progress)*
+* **AWS Certified AI Business Strategist (AIB-C01 Specialization Track)** | Amazon Web Services
 * **AWS & Cloud Specializations**: AWS Solutions Architect, AWS Data Lake Specialization, Google Cloud Advanced Data Analytics
 * **B.S. in Computer Science & Mathematics** | University of the Western Cape
 * **U.S. Patents**:
